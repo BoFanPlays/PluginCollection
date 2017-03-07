@@ -437,6 +437,13 @@
 			"desc": "Allows your users with permissions\nto change their name/chat color!",
 			"jarName": "ChatColor.jar",
 			"configName": "ChatColor+"
+		},
+		{
+			"name": "WorldEdit",
+			"desc": "Tool Used to Edit The World",
+			"jarName": "",
+			"configNAme": "WorldEdit"
+			
 		}
 	]
 }
