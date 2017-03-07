@@ -441,7 +441,7 @@
 		{
 			"name": "WorldEdit",
 			"desc": "Tool Used to Edit The World",
-			"jarName": "",
+			"jarName": "worldedit.jar",
 			"configNAme": "WorldEdit"
 			
 		}
